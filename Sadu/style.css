@@ -1,0 +1,37 @@
+.container{
+	background-color: gray;
+	width: 960;
+	height : 1000;
+	margin: 0 auto;
+}
+.header{
+	background-color: blue;
+	color: white;
+	text-align: center;
+	font-size: 25px;
+	padding: 15px ;
+}
+.content{
+	background: white;
+}
+.content h2{
+	font-size: 30px;
+	padding-top: 15px;
+}
+.content p{
+	padding-top: 10px;
+	padding-bottom: 5px;
+	font-size: 20px;
+}
+.content img{
+	width: 30%;
+	height: 30%;
+	padding-top: 0px;
+}
+.footer{
+	font-size: 25px;
+	background-color: black;
+	color: white;
+	padding: 20px;
+	text-align: center;
+}
